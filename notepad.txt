@@ -1,0 +1,8 @@
+{
+    "id_user": "re4542ee",
+    "username": "richard",
+    "password": "test",
+    "email": "richard@gmail.com",
+    "name": "Richard Alvin",
+    "role": "admin"
+}
